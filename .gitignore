@@ -2,6 +2,7 @@
 !/src/
 /src/*
 !/src/inlamningsuppgift2/
+!/src/Morseproject/
 .idea/
 out/
 *.iml
